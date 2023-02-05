@@ -1,0 +1,86 @@
+.container h1 {
+    font-size: 38px;
+}
+
+.right img {
+    width: 272px;
+    height: 400px;
+}
+
+.para {
+    font-size: 22px;
+}
+
+.para2 {
+    font-size: 18px;
+}
+
+#logo {
+    margin: 10px;
+    font-size: 30px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#icon {
+    margin-top: 17px;
+}
+
+/* About */
+.left-about {
+    margin: auto;
+}
+
+#about img {
+    height: 350px;
+}
+
+.right-about {
+    padding: 15px;
+    margin: 0;
+}
+
+.right-about h1 {
+    font-size: 50px;
+}
+
+.right-about h2 {
+    font-size: 25px;
+}
+
+.intro {
+    font-size: 14px;
+}
+
+.intro-2 {
+    font-size: 14px;
+}
+
+/* Projects */
+#projects {
+    max-width: 100%;
+}
+
+.card-body {
+    width: 15rem;
+}
+
+.card-image-top {
+    width: 15rem;
+    height: 10rem;
+}
+
+/* Projects */
+
+/* Contacts */
+form input {
+    width: 300px;
+}
+
+form textarea {
+    width: 300px;
+}
+
+/* Contacts */
